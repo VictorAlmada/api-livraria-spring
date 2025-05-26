@@ -30,5 +30,4 @@ Os endpoints podem ser testados via Postman.
 
 ## 💡 Autor
 
-Desenvolvido por [Victor da Costa Almada](https://github.com/VictorAlmada)
-
+Desenvolvido por [Victor da Costa Almada](https://www.linkedin.com/in/victor-almada/)
